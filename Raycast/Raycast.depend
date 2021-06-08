@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623187280 source:c:\users\daniels\documents\random stuff\c++\2018\raycast\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<chrono>
+	<string>
+
